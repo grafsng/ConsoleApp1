@@ -33,7 +33,7 @@ namespace ConsoleApp1
         }
         public void Itog()
         {
-            Console.WriteLine($"Loh {name}, u tebya {score}");
+            Console.WriteLine($"Loh ty {name}, u tebya {score}");
         }
 
 
